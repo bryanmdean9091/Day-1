@@ -1,0 +1,54 @@
+body {
+    background-image: url('./images/popcorn.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 2%; */
+    width: auto;
+    font-weight: 800;
+}
+.prompt {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 2rem;
+    color: black;
+}
+
+.buttonBox {
+    display: flex;
+    justify-content: center;
+}
+
+.posterContain {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    font-size: 1.5rem;
+}
+
+p {
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5 rem;
+}
+
+.infoBox {
+    display: flex;
+    justify-content: center;
+}
+
+.plotBox {
+    display: flex;
+    justify-content: center;
+}
